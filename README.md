@@ -5,7 +5,7 @@ Using machine learning to predict tool condition (Healthy vs. Worn) in a CNC mil
 ## How to Run
 1. Clone the project: 
    ```bash
-   git clone [https://github.com/ruciragati/cnc-milling-analysis-ml.git](https://github.com/ruciragati/cnc-milling-analysis-ml.git)
+   git clone https://github.com/ruciragati/cnc-milling-analysis-ml.git
    cd cnc-milling-analysis-ml
 2. Donwload data archives from [Kaggle](https://www.kaggle.com/datasets/shasun/tool-wear-detection-in-cnc-mill) and place it inside the folder.
 3. Install & run: 
